@@ -3,5 +3,5 @@ export default function formatDuration(seconds) {
     const secs = seconds % 60
 
     const paddedSecs = secs < 10 ? '0' + secs : secs
-    return minutes + '+' + paddedSecs
+    return minutes + ':' + paddedSecs
 }
