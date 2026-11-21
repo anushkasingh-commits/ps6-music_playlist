@@ -7,7 +7,7 @@ A React song browser where you can search and filter songs, view details for eac
 - **Name:** Anushka Singh
 - **Roll Number / UID:** 108
 - **Assigned Problem Statement:** P6 - Music Playlist
-- **Live Deployment:** 
+- **Live Deployment:** https://music-playlist-theta.vercel.app/
 
 ## Features
 
